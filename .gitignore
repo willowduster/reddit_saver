@@ -1,0 +1,21 @@
+# Environment / secrets
+.env
+
+# Downloaded video files and tracking
+videos/
+downloaded_ids.json
+compilation.mp4
+concat_list.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
